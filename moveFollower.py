@@ -3,7 +3,10 @@
 '''
 Author:
 =======
-Aniket and Shishir
+Aniket Pendse
+Debraj Bhattacharjee
+Amol Vagad
+Shishir Pagad
 
 Date:
 =====
