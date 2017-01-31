@@ -8,4 +8,4 @@ OS       : Ubuntu 16.04 LTS
 Python   : 3.5.2
 
 Robots in action: https://www.youtube.com/watch?v=xGFWBUbK1zw&t=30s
-More detailed description of the project can be found in the project report
+More detailed description of the project can be found in the project report.
