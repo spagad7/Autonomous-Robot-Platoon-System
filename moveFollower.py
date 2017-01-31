@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 '''
-Author:
+Authors:
 =======
 Aniket Pendse
 Debraj Bhattacharjee
